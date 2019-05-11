@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01643c90b21104b41938c9efc2967a04, type: 3}
+  m_Name: Non-shoot Wave1
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1391929230514700, guid: ef976af30d31e7a408ffa03ba3c2ae9e,
+    type: 2}
+  pathPrefabs:
+  - {fileID: 1540434809652278, guid: 2c9e0268c157f7943a5d0f7d88b96f57, type: 2}
+  - {fileID: 1032494433238496, guid: 4721a8eab87fdcd43b212b58f8bf68df, type: 2}
+  timeBetweenSpawns: 0.5
+  randomFactor: 0.3
+  numberOfEnemies: 5
+  moveSpeed: 15
+  destroyAtEndPoint: 1
+  isAbleToShoot: 1
+  stopAtEndPoint: 0
+  deployAtSameTime: 1
+  chargeToPlayer: 0

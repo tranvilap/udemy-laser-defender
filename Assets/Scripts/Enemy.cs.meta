@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71dfe5865d75b5049a0d2006288fcea2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyProjectilePrefab: {instanceID: 0}
+  - enemyDeathVFX: {fileID: 1739959970521660, guid: 416770ff26f56a54691d82c323f9ab4d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

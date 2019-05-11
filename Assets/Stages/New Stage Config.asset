@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 204bca3a6bea60a4ea87150718a47134, type: 3}
+  m_Name: New Stage Config
+  m_EditorClassIdentifier: 
+  normalWaveConfigs:
+  - {fileID: 11400000, guid: 9b8709c10e7aad54c95d31302048cd55, type: 2}
+  - {fileID: 11400000, guid: a904ca73b8e623545b853e8a8f06dd99, type: 2}
+  - {fileID: 11400000, guid: 4760151bf1eaeab478b8193666f172d3, type: 2}
+  - {fileID: 11400000, guid: ee6eb7adf7cd4a1448b5f0a3be578a38, type: 2}
+  - {fileID: 11400000, guid: b41a35ed2a9e011479a8dc23fbc10db3, type: 2}
+  - {fileID: 11400000, guid: c3a18bdca1f578f4dbe2bf823749022f, type: 2}
+  - {fileID: 11400000, guid: 697b09819caa29e4fbd5d25dc6f66915, type: 2}
+  numberOfUpgradeItems: 3
+  numberOfHealingItems: 2
+  bossWaveConfigs: []
+  randomWaves: 0
+  randomBosses: 0

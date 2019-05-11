@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01643c90b21104b41938c9efc2967a04, type: 3}
+  m_Name: New Wave Config
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1653262099253512, guid: c2b957776e26bd248945cf3a56fc705b,
+    type: 2}
+  pathPrefabs:
+  - {fileID: 1822440390582630, guid: af676f0453f731a47839828f0f58c8d7, type: 2}
+  - {fileID: 1205416307364576, guid: 318f4d7f10c593b498a6f09e11ce1edc, type: 2}
+  - {fileID: 1738914140661192, guid: 864ee150dc672eb4e93f23cb0f647e8c, type: 2}
+  - {fileID: 1020578448942718, guid: 3a5ae842a84048048af720bb6b1b6087, type: 2}
+  - {fileID: 1233381171159384, guid: 67e9c8d6f8895254aa3ee3eedde38d6c, type: 2}
+  timeBetweenSpawns: 0.5
+  randomFactor: 0.3
+  numberOfEnemies: 1
+  moveSpeed: 15
+  destroyAtEndPoint: 1
+  isAbleToShoot: 0
+  stopAtEndPoint: 0
+  deployAtSameTime: 0
+  chargeToPlayer: 1

@@ -1,0 +1,4 @@
+Add animations
+design more enemies and paths
+add more stage
+Complete the upgrade system ( blank visual when upgrade is full)
